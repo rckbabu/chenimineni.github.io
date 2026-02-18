@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Suresh Babu | Website Under Construction</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f6f8;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .card {
+            background: #ffffff;
+            padding: 40px;
+            max-width: 500px;
+            width: 90%;
+            text-align: center;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        p {
+            margin: 8px 0;
+            font-size: 16px;
+        }
+        .note {
+            margin-top: 20px;
+            font-style: italic;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Suresh Babu</h1>
+        <p>Email: <a href="mailto:rckbabu@gmail.com">rckbabu@gmail.com</a></p>
+        <p>Phone: +91-9901971201</p>
+        <p class="note">Website under construction</p>
+    </div>
+</body>
+</html>
